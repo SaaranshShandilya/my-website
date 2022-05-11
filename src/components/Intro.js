@@ -15,7 +15,7 @@ const Intro = () => {
             touchControls: true,
             gyroControls: false,
             minHeight: 100.00,
-            minWidth: 200.00,
+            minWidth: 500.00,
             scale: 1.00,
             scaleMobile: 1.00,
             backgroundColor: 0x5050f,
@@ -38,7 +38,7 @@ const Intro = () => {
                 <h1 className='md:text-7xl text-3xl font-bold text-amber-400  md:text-pink-600 my-8'>I am Saaransh Shandilya</h1>
                 <h1 className='md:text-7xl ml-16 md:ml-0 text-3xl font-bold text-teal-400 my-8'>{<Webdevtext/>}</h1>
                 <p className='md:mt-32 mt-20 md:mx-0 mx-4 text-white text-3xl font-bold'>Welcome to my corner of web!</p>
-                <p className='mt-4 text-white text-3xl font-bold pb-8'>I am glad to have you here</p>
+                <p className='mt-4 text-white text-3xl font-bold pb-8 md:pb-96'>I am glad to have you here</p>
             </div>
         </div>
     </div>
