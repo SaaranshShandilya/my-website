@@ -15,7 +15,7 @@ const Intro = () => {
             touchControls: true,
             gyroControls: false,
             minHeight: 100.00,
-            minWidth: 500.00,
+            minWidth: 100.00,
             scale: 1.00,
             scaleMobile: 1.00,
             backgroundColor: 0x5050f,
